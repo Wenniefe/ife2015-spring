@@ -423,7 +423,6 @@ header .container {
 }
 .gallery-nav {
 	font-size: 0;
-	background: #fff;
 }
 .gallery-nav li {
 	display: inline-block;
@@ -431,6 +430,7 @@ header .container {
 	border-left: 1px solid #eee;
 	border-top: 5px solid #d4bed9;
 	font-size: 14px;
+	background: #fff;
 }
 .gallery-nav li:hover {
 	border-top: 5px solid #522a5c;
